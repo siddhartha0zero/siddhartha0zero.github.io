@@ -1,0 +1,6 @@
+[book]
+authors = ["siddhartha0zero"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust_Test_Book_01"
